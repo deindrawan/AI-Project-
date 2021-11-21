@@ -1,0 +1,5 @@
+print("Identitas")
+print("\nNama   : I Gede Indrawan")
+print("NIM      : 19101067")
+print("Alamat   : Bangli")
+print("TTL      : Kalanganyar, 8 September 2001")
